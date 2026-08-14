@@ -4,6 +4,13 @@
 Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
 
 # Provider Final Project for Flutter Course
+
+## Course
+
+This project is part of **The Complete Flutter Course: Build Android, iOS, and Web apps**.
+
+[View the course on Coding Liquids](https://www.codingliquids.com/courses/Flutter-Course-Learn-to-Build-Android-iOS-and-Web-apps-637b978ee4b08f9aaa22d2cb)
+
 Welcome to the final provider project of the Flutter course by Coding Liquids, focusing on the provider state management solution!
 
 ## Introduction
